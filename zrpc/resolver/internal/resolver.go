@@ -18,7 +18,7 @@ const (
 	// EndpointSepChar is the separator cha in endpoints.
 	EndpointSepChar = ','
 
-	subsetSize = 32
+	subsetSize = 64
 )
 
 var (
